@@ -54,3 +54,7 @@ int main(){
     // KthSmallest(arr, 10, 7);
     return 0;
 }
+
+
+Graph for the time taken 
+https://www.desmos.com/calculator/1ivdyskdjo
